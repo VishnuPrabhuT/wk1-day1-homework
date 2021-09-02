@@ -1,0 +1,22 @@
+{
+  "name": "wk1_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server_task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishnuPrabhuT/wk1-day1-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VishnuPrabhuT/wk1-day1-homework/issues"
+  },
+  "homepage": "https://github.com/VishnuPrabhuT/wk1-day1-homework#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
